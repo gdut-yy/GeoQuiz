@@ -1,9 +1,13 @@
 # GeoQuiz（Android 应用）
 
-![](Readme/ic_geoquiz.png)
+![](readme/ic_geoquiz.png)
 
 《Android 编程权威指南（第 3 版）》书的第一个应用，借此学习 Android 应用的基本组成、activity、界面布局以及显示 intent。
 （Chapter 1 - Chapter 6）
+
+## 应用截图
+
+![](readme/geoquiz_1.png)
 
 ## 涉及技术
 
